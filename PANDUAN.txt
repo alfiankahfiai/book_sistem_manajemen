@@ -1,0 +1,6 @@
+FLIPBOOK SISTEM MANAJEMEN PT. MAHAWANGSA — 105 HALAMAN
+
+Ekstrak semua file ZIP lalu buka index.html. Dapat digunakan offline.
+Untuk hosting atau GitHub Pages, unggah semua isi folder dengan struktur yang sama.
+Sampul pertama dan halaman terakhir ditampilkan satu halaman di tengah. Isi buku dua sisi. Halaman 104 berpasangan dengan sisi kosong agar sampul belakang tetap berdiri sendiri. Semua halaman PDF dipertahankan.
+Navigasi melalui klik halaman, tombol panah, nomor halaman, atau pencarian. Tersedia zoom dan layar penuh.
